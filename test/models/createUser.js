@@ -1,7 +1,7 @@
 const assert = require('assert');
 const User = require('../../src/user');
 
-describe.only('Create User', () => {
+describe('Create User', () => {
     let idUser;
     beforeEach('Create a new User', async () => {
         const thanh = new User({
