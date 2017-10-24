@@ -1,0 +1,26 @@
+{
+  "name": "embed_data",
+  "version": "1.0.0",
+  "description": "XỬ LÝ CÁC DẠNG COLLECTION CÓ DỮ LIỆU KIỂU 1 TRƯỜNG NHIỀU GIÁ TRỊ\r Vd: 1 Người có nhiều phone number, 1 người có nhiều bài post...",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vqthanh1412489/embed_data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vqthanh1412489/embed_data/issues"
+  },
+  "homepage": "https://github.com/vqthanh1412489/embed_data#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "mongoose": "^4.12.4"
+  }
+}
